@@ -69,7 +69,7 @@ A linguagem principal do projeto. O Python é uma linguagem de alto nível, ampl
 
 1. **Clone o repositório** para o seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/agenda-contatos.git
+   [git clone https://github.com/seu-usuario/agenda-contatos.git](https://github.com/BrunoAV1/Agenda-de-Contatos.git)
 
 2. **Instale** as dependências necessárias (bibliotecas externas):
     * A biblioteca phonenumbers é necessária para a validação dos números de telefone. Instale-a utilizando o **pip**:
