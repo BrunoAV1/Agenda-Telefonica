@@ -41,13 +41,16 @@ A linguagem principal do projeto. O Python é uma linguagem de alto nível, ampl
 - **Editar Contato**
   - O usuário pode alterar os dados de um contato já existente.
   - A edição é feita de maneira simples e intuitiva, permitindo ao usuário alterar qualquer um dos campos (nome, telefone e e-mail).
-  - PS: Ao editar o número, retire os carácters especiais, coloque apenas os números partindo do DD+9+restante do número. Uma possivel melhoria nesse campo virá.
+  - PS: Ao editar o número, retire os carácters especiais, coloque apenas os números partindo do DD+9+restante do número. Uma possivel melhoria nesse campo virá. 
+ #### Funcionalidade removida no commit mais recente
 
 - **Excluir Contato**
   - Oferece a funcionalidade de excluir um contato da lista, removendo permanentemente o contato da agenda.
+  #### Funcionalidade removida no commit mais recente.
 
 - **Buscar Contato**
   - Possibilita a busca de contatos por nome. Ao digitar o nome de um contato, a lista de contatos exibirá apenas aqueles que correspondem ao critério de pesquisa.
+  #### Funcionalidade removida no commit mais recente.
 
 
 - **Exibição de Contatos**
